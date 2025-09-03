@@ -28,5 +28,9 @@ CSS3
 JavaScript
 
 JQuery
+
+
+
+
 🔹 The template i used 
 [templatemo_526_vanilla.zip](https://github.com/user-attachments/files/22122581/templatemo_526_vanilla.zip)
